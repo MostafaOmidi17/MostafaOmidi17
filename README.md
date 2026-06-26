@@ -1,28 +1,33 @@
-### 💻 Tech Stack
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kasri-p.kasri-p" />
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-</p>
+---
 
-### 📊 GitHub Stats
+## ⚙️ Tech Stack
 
-[![Mostafa Omidi GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaOmidi17&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,bash,rust,python,r,gradle,git,mysql,github" /><br/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaOmidi17&layout=compact&langs_count=6&theme=dark&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=MostafaOmidi17&theme=dark&hide_border=false" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MostafaOmidi17&show_icons=true&theme=dark&rank_icon=github&hide_border=true" />
+  <br/><br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaOmidi17&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center"> 
+  <a href="mailto:kasra.sh1385@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
