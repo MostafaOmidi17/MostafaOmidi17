@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kasri-p.kasri-p" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MostafaOmidi17.MostafaOmidi17" />
 
 ---
 
@@ -27,7 +27,7 @@
   <a href="mailto:mostafaomidi2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/mostafaomidi2006" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafaomidi2006/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
