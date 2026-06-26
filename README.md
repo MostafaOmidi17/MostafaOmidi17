@@ -24,7 +24,7 @@
 ## 📫 Contact Me
 
 <div align="center"> 
-  <a href="mailto:kasra.sh1385@gmail.com">
+  <a href="mailto:mostafaomidi2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
