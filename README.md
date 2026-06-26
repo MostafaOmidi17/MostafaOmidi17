@@ -25,5 +25,4 @@
 
 [![Mostafa Omidi GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaOmidi17&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==MostafaOmidi17&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaOmidi17&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
